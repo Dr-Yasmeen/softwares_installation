@@ -12,8 +12,8 @@ Steps to install Git
 ----------------------
 sudo apt install git
 git --version
-git config --global user.name "JavaExpress"
-git config --global user.email "javaexpresschannel@gmail.com"
+git config --global user.name "Dr.Yasmeen"
+git config --global user.email "dr.yasmeen.aashu@gmail.com"
 
 Steps to install Jenkins
 ----------------------
